@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .navbar {
+    width: 100%;
+  }
+  
+  .navbar-brand {
+    padding-left: 15px;
+  }
+  
+  .container-fluid {
+    padding: 0;
+    margin: 0;
+  }
+  

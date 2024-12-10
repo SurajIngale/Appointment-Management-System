@@ -1,0 +1,33 @@
+.container {
+background-color: black;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+.btn-primary {
+  background-color: #0f151f;
+  border-color: #000000;
+}
+
+.btn-outline-primary {
+  color: #2575fc;
+  border-color: #2575fc;
+}
+
+.btn-primary:hover, .btn-outline-primary:hover {
+  background-color: #220c39;
+  border-color: #6a11cb;
+}
